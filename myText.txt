@@ -1,7 +1,4 @@
 This is "myText"
 
-<<<<<<< HEAD
 Edited from "Master"
-=======
 Edited from "Feature Branch"
->>>>>>> feature
