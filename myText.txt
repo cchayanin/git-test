@@ -7,3 +7,4 @@ Edited from "Feature Branch"
 Edited from "Develop Branch"
 
 This is "Text" from Master
+I'm "New Text" from newfeature
